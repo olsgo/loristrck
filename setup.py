@@ -157,7 +157,8 @@ setup(
         'numpy>=1.8',
         'numpyx',
         'soundfile',
-        'pysdif3>=1.0.0'
+        'pysdif3>=1.0.0',
+        'PyQt5'
     ],
     package_data=package_data,
     # include_package_data=bool(package_data),
